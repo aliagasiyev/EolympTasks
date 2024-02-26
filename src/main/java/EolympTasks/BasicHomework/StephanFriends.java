@@ -1,4 +1,4 @@
-package BasicsHomework;
+package EolympTasks.BasicHomework;
 
 import java.util.Scanner;
 

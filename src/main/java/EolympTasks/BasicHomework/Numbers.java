@@ -1,4 +1,4 @@
-package BasicsHomework;
+package EolympTasks.BasicHomework;
 
 public class Numbers {
     public static void main(String[] args) {
